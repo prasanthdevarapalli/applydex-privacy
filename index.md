@@ -87,4 +87,4 @@ We may update this policy from time to time. Changes will be posted on this page
 ## Contact
 
 For privacy questions or data requests:
-- Email: **privacy@applydex.app**
+- Email: **privacy@applydex.com**
